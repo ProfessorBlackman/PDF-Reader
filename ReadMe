@@ -1,0 +1,5 @@
+This is a PDF Reader.
+The reader is made in python and has the following functions.
+--It can open all PDF files
+--It can copy text from a PDF file
+--It can edit text in a PDF file
